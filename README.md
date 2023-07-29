@@ -34,9 +34,12 @@ https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M/ref=
 
 ### Heatsink
 1.first version
+
 ![alt text](/img/img1.png)
-2.second version
+
 ![alt text](/img/img3.jpg)
+
+2.second version
 
 ## Instructions
 1.
