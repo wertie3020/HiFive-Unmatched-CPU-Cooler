@@ -5,7 +5,7 @@ This heatsink wil be a 3d model that can be 3d printed at pcbway in Aluminium
 ## Benchmark
 
 ### Noctua NF-A4x10 FLX old heatsink
-![alt text](/img/img2.png)
+![alt text](/img/img2.jpg)
 
 blowfish: 12.96
 cryptohash: 74.71
@@ -35,7 +35,7 @@ https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M/ref=
 ### Heatsink
 - first version
 ![alt text](/img/img1.png)
-![alt text](/img/img3.png)
+![alt text](/img/img3.jpg)
 - second version
 
 ## Instructions
