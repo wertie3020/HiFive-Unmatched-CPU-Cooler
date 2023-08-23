@@ -1,10 +1,10 @@
 # HiFive-Unmatched-CPU-Cooler
-A HiFive Unmatched CPU cooler heatsink.
-This heatsink wil be a 3d model that can be 3d printed at pcbway in Aluminium
+A HiFive Unmatched CPU cooler heat-sink.
+This heat-sink wil be a 3d model that can be 3d printed at pcbway in Aluminium
 
 ## Benchmark
 
-### Noctua NF-A4x10 FLX old heatsink
+### Noctua NF-A4x10 FLX old heat-sink
 ![alt text](/img/img2.jpg)
 
 - blowfish: 12.96
@@ -18,10 +18,10 @@ This heatsink wil be a 3d model that can be 3d printed at pcbway in Aluminium
 
 
 
-### Noctua NF-A4x10 FLX new heatsink
+### Noctua NF-A4x10 FLX new heat-sink
 
 ## Software
-A list of all the software/website that is used to creat the heatsink.
+A list of all the software/website that is used to creat the heat-sink.
 - FreeCAD
 - PCBway https://www.pcbway.com/
 - 
@@ -32,7 +32,7 @@ A list of all the software/website that is used to creat the heatsink.
 For the ventilator use the Noctua NF-A4x10 FLX, Premium Quiet Fan, 3-Pin (40x10mm, Brown)
 https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M/ref=sr_1_22_sspa?keywords=40x40+fan&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1
 
-### Heatsink
+### Heat-sink
 1.first version
 
 ![alt text](/img/img1.png)
@@ -42,5 +42,13 @@ https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M/ref=
 2.second version
 
 ## Instructions
-1.
-2.
+1. remove old heat-sink
+2. modify the blue holder by removing the inner pieces
+3. print the new heat-sink
+4. order a fan like the Noctua NF-A4x10 FLX
+5. make some M3 treads in the mounting hols for the fan
+6. clean the cpu surface so there is no Thermal paste left
+7. add new tThermal paste to the cpu
+8. push the blue holder true the heat-sink
+9. mount the heat-sink to the cpu 
+10. screw in the fan with m3 screws
